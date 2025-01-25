@@ -23,12 +23,17 @@ O sistema também permite o envio direto da mensagem via WhatsApp.
 - Suporte a múltiplos pedidos.
 - Persistência dos pedidos no localStorage para consultas e relatórios.
 
-## Como Usar
+## Como Usar online
+
+1. [Clique aqui para abrir em seu navegador](https://viniciushsaraujo.github.io/Gerador-de-Pedidos-para-WhatsApp/)
+
+## Como Usar offline
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/ViniciusHSAraujo/Gerador-de-Pedidos-para-WhatsApp.git
    ```
+   
 2. Abra o arquivo `index.html` no navegador para executar o projeto localmente.
 
 ## Licença
